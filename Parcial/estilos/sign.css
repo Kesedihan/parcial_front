@@ -1,0 +1,33 @@
+form {
+    padding: 30px;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+.label-login {
+    width: auto;
+    margin: 10px;
+    justify-content: end;
+    text-align: center;
+}
+
+.input-login {
+    width: 230px;
+    margin: 12px;
+    justify-content: center;
+    display: flex;
+}
+
+.buttoncancel {
+    text-decoration: none;
+    color: black;
+}
+
+.actividades {
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}

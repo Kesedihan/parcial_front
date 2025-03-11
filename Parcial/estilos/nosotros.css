@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+
+.contenedor {
+    margin: 20px;
+    display: flex;
+}
+
+.div-acordeon {
+    margin-bottom: 20px;
+    border-bottom: 2px solid #000;
+}
+
+.text {
+    margin-top: 50px;
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
